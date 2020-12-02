@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"covidDeaths","startColumn":"A","endColumn":"+","startRow":"2","endRow":"30","comment":"","rule":"Individual: @A*(rdf:ID\u003d@A*)\nTypes: Covid\nFacts: hasDate @B*(xsd:dateTime), \nhasDeathCount @D* (xsd:integer),\nhasLocation @C*(xsd:string)","active":true}]}
